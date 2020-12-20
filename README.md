@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple apps management tool.
+Simple app management tool.
 
 ## Installation
 
