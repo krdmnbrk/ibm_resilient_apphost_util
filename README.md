@@ -13,12 +13,12 @@ Simple apps management tool.
 ## Usage
 **To list apps**: `./apps.sh`
 
-![alt text](https://github.com/krdmnbrk/ibm_resilient_apps_util/blob/main/apps.png?raw=true)
+![alt text](https://github.com/krdmnbrk/ibm_resilient_apphost_util/blob/main/apps.png?raw=true)
 
 **To get shell**: `./apps.sh <app_name>`
 
-![alt text](https://github.com/krdmnbrk/ibm_resilient_apps_util/blob/main/apps_in.png?raw=true)
+![alt text](https://github.com/krdmnbrk/ibm_resilient_apphost_util/blob/main/apps_in.png?raw=true)
 
 **To tail logs**: `./apps.sh <app_name> logs`
 
-![alt text](https://github.com/krdmnbrk/ibm_resilient_apps_util/blob/main/apps_logs.png?raw=true)
+![alt text](https://github.com/krdmnbrk/ibm_resilient_apphost_util/blob/main/apps_logs.png?raw=true)
